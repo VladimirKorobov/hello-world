@@ -1,1 +1,2 @@
 New file for branch Branch2
+New line for mew file for branch Branch2
