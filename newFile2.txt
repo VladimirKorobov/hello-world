@@ -7,3 +7,5 @@ New line3
 
 Commit1-Hotfix
 Commit1-Branch3
+
+Commit1-Branch1
