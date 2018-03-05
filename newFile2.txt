@@ -1,0 +1,11 @@
+New file for branch Branch2
+New line for mew file for branch Branch2
+
+New line1
+New line2
+New line3
+
+Commit1-Hotfix
+Commit1-Branch3
+
+Commit1-Branch1
